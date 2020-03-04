@@ -1,0 +1,26 @@
+h1
+{
+    text-align: center;
+    text-transform: uppercase;
+    font-size:40px;
+
+}
+h2
+{
+    text-align: justify;
+    font-size:35px;
+}
+p ,li ,ul
+{
+    text-align: justify;
+   font-size:30px;
+    vertical-align:inherit;
+}
+img
+{
+    width:180px;
+    height:240px;
+
+
+
+}
